@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#f1fbfc">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="General"
+            android:layout_marginLeft="20dp"
+            android:textSize="25dp"
+            android:textColor="@color/colorPrimary"
+            />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        >
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="This privacy policy will helps you to understand our policies and procedures regarding the collection and handling and use of any information ,is capable the identifying the user.As avisitortothe site/customer you are advised to please read the privacy policy carefully.By accesing the services providedby the site you agree the collection and use of your data by diiarwa in the manner provided in this privacy policy"
+                android:textColor="#605959"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="15dp"
+                android:textSize="15dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            >
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="This privacy policy will helps you to understand our policies and procedures regarding the collection and handling and use of any information ,is capable the identifying the user.As avisitortothe site/customer you are advised to please read the privacy policy carefully.By accesing the services providedby the site you agree the collection and use of your data by diiarwa in the manner provided in this privacy policy"
+                android:textColor="#605959"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="15dp"
+                android:textSize="15dp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+        </LinearLayout>
+</ScrollView>
+</LinearLayout>
+
+

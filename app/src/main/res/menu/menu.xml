@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single">
+    <item
+        android:icon="@drawable/ic_home_black_24dp"
+        android:id="@+id/home"
+        android:title="Home">
+    </item>
+    <item
+        android:icon="@mipmap/ic_myprofile"
+        android:id="@+id/myprofile"
+        android:title="My Profile">
+    </item>
+    <item
+        android:icon="@mipmap/ic_order"
+        android:id="@+id/order"
+        android:title="My Order">
+
+    </item>
+    <item
+        android:icon="@mipmap/ic_cart"
+        android:id="@+id/cart"
+        android:title="My Cans">
+
+    </item>
+    <item
+        android:id="@+id/wallet"
+        android:icon="@mipmap/ic_wallet"
+        android:title="My Wallets">
+
+    </item>
+    <item
+        android:id="@+id/offers"
+        android:icon="@mipmap/ic_offers"
+        android:title="Offers">
+
+    </item>
+    <item
+        android:id="@+id/contact"
+        android:icon="@mipmap/ic_contact"
+        android:title="Contact Us">
+
+    </item>
+    <item
+        android:id="@+id/helps"
+        android:icon="@mipmap/ic_help"
+        android:title="Help">
+
+    </item>
+
+</group>
+</menu>

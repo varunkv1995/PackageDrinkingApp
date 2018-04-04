@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/order_summary_layout"
+    android:background="@color/divider_light">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+            <ImageView
+                android:id="@+id/img1"
+                android:layout_width="match_parent"
+                android:layout_height="200sp"
+                android:layout_marginTop="20sp"
+                android:layout_gravity="center"/>
+    <TextView
+        android:id="@+id/textprice"
+        android:layout_width="match_parent"
+        android:layout_height="80sp"
+        android:layout_gravity="left"
+        android:gravity="center"
+        android:textColor="#000"
+        android:textSize="15dp" />
+    <TextView
+                    android:id="@+id/textdt"
+                    android:layout_width="match_parent"
+                    android:layout_height="50sp"
+                    android:layout_gravity="left"
+                    android:gravity="center"
+                    android:textColor="#000"
+                    android:textSize="15dp" />
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/half_dp"
+        android:background="@color/divider_dark"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ListView
+            android:id="@+id/lv"
+            android:layout_width="match_parent"
+            android:layout_height="140sp"
+            android:layout_margin="10dp"
+            android:divider="#eeeff1"
+            android:dividerHeight="1dp">
+        </ListView>
+    </LinearLayout>
+    </LinearLayout>
+    </ScrollView>
+
+

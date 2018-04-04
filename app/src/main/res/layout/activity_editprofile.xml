@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#f1fbfc">
+
+<android.support.v7.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#2498c6"
+        android:weightSum="1">
+        <Button
+            android:id="@+id/displaytext"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right"
+            android:layout_marginLeft="14dp"
+            android:layout_marginRight="13dp"
+            android:background="#2498c6"
+            android:padding="5dp"
+            android:textSize="20dp"
+            android:text="Edit"
+            android:drawableRight="@drawable/ic_edit_black"
+            android:textColor="#333333"
+            />
+        <TextView
+            android:id="@+id/myprofileview"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:text=" My Profile"
+            android:textSize="29dp"
+            android:textColor="#fff"
+            android:textStyle="bold"/>
+    </android.support.v7.widget.Toolbar>
+    <ListView android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:id="@+id/lv"
+        android:dividerHeight="2dp"
+        android:divider="#f123"
+        android:layout_margin="10dp"/>
+
+</LinearLayout>

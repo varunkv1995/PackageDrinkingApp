@@ -1,0 +1,235 @@
+{
+  "project_info": {
+    "project_number": "654720700937",
+    "firebase_url": "https://packagedrinkingwatercan.firebaseio.com",
+    "project_id": "packagedrinkingwatercan",
+    "storage_bucket": "packagedrinkingwatercan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654720700937:android:2f7a4b69a20cfe5e",
+        "android_client_info": {
+          "package_name": "com.example.dell.packedwaterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654720700937-75q26djjncaukvv2u23bd7gblrb5fr56.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.packedwaterapp",
+            "certificate_hash": "0e04697625d1897821b06c73318a48b3bf37cf0b"
+          }
+        },
+        {
+          "client_id": "654720700937-2jjb4mg91r37dpei40dd0goqaa8shofa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.packedwaterapp",
+            "certificate_hash": "5a5ef524faacbba671182f26f7672d945fb029c7"
+          }
+        },
+        {
+          "client_id": "654720700937-gde57ussn1houhr6poninh6ir2uhe6ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3a1hm1cX-1yjOZlckjYeSFNHCBp9MINk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654720700937-gde57ussn1houhr6poninh6ir2uhe6ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654720700937:android:5df8f6dd5607545f",
+        "android_client_info": {
+          "package_name": "com.example.dell.water"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654720700937-ktn76k5cm5qknvp3l4q5a2v92docab9r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.water",
+            "certificate_hash": "5a5ef524faacbba671182f26f7672d945fb029c7"
+          }
+        },
+        {
+          "client_id": "654720700937-gde57ussn1houhr6poninh6ir2uhe6ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3a1hm1cX-1yjOZlckjYeSFNHCBp9MINk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654720700937-gde57ussn1houhr6poninh6ir2uhe6ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654720700937:android:0b7bcf72da22edd2",
+        "android_client_info": {
+          "package_name": "com.example.mylaptop.myprofile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654720700937-urpu3o9iqba9e3k4mlc3url89srteuj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mylaptop.myprofile",
+            "certificate_hash": "059cca2a47cdb558bbf3b02eac5194bdc99b4573"
+          }
+        },
+        {
+          "client_id": "654720700937-gde57ussn1houhr6poninh6ir2uhe6ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3a1hm1cX-1yjOZlckjYeSFNHCBp9MINk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654720700937-gde57ussn1houhr6poninh6ir2uhe6ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654720700937:android:4e3e2ca2f4298c8b",
+        "android_client_info": {
+          "package_name": "comw.example.mdsaif.packagedrinkingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654720700937-s4nvqvlbkbck74vvmk4nos9gmprrd7fa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comw.example.mdsaif.packagedrinkingapp",
+            "certificate_hash": "dc6caf9728520e63bd580208a4c9468badfc4322"
+          }
+        },
+        {
+          "client_id": "654720700937-m4vgldj59sjssrfofhn28inq3hvmk1a9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comw.example.mdsaif.packagedrinkingapp",
+            "certificate_hash": "5d1a03a9d2a1ed1993df671fe011dca457257570"
+          }
+        },
+        {
+          "client_id": "654720700937-jl810dio1dfmq1gd60cehihm7uu359de.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comw.example.mdsaif.packagedrinkingapp",
+            "certificate_hash": "3c4da2ddd945e7deed4864cab636544b2edb0c03"
+          }
+        },
+        {
+          "client_id": "654720700937-2fikdv07i5fjboa9shu71bq1fb79g0ul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comw.example.mdsaif.packagedrinkingapp",
+            "certificate_hash": "0e04697625d1897821b06c73318a48b3bf37cf0b"
+          }
+        },
+        {
+          "client_id": "654720700937-8269tkrjrgcsa4jcdq0ftb53a5ctqt5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comw.example.mdsaif.packagedrinkingapp",
+            "certificate_hash": "059cca2a47cdb558bbf3b02eac5194bdc99b4573"
+          }
+        },
+        {
+          "client_id": "654720700937-iqa3clqaskhcv2sb104me0a4bgrqet1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "comw.example.mdsaif.packagedrinkingapp",
+            "certificate_hash": "7b2b90a6f20135d838a3e951e572ef74e0957eb6"
+          }
+        },
+        {
+          "client_id": "654720700937-gde57ussn1houhr6poninh6ir2uhe6ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3a1hm1cX-1yjOZlckjYeSFNHCBp9MINk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654720700937-gde57ussn1houhr6poninh6ir2uhe6ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
